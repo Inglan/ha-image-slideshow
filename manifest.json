@@ -1,0 +1,15 @@
+{
+  "domain": "imageslideshow",
+  "name": "Folder Image Slideshow",
+  "codeowners": [
+    "@Inglan"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/imageslideshow",
+  "homekit": {},
+  "iot_class": "calculated",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
